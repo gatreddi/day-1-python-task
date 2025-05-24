@@ -1,2 +1,2 @@
-# day-1-python-task
-a simple task assigned in my 1st day of st. school ( python and Gen AI )
+# python with Gen AI 
+It's an st. school organized by student tribe for a span of 7 days 
